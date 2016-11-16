@@ -3,7 +3,7 @@
 module MagicTelecomApi
   class Configuration
     # The base Uri for API calls
-    @base_uri = 'https://api.magictelecom.com/app_dev.php'
+    @base_uri = 'https://api.magictelecom.com'
 
     # API Token
     @x_auth_token = ''123abcqwerty''
